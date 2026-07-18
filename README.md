@@ -4,9 +4,9 @@
 
 ## Fund Reporting Manager | Chartered Accountant | Private Equity & Fund Accounting Professional
 
-Welcome to my GitHub profile!
+Welcome to my profile!
 
-I'm a Chartered Accountant with over 10 years of experience in fund accounting, fund reporting, financial reporting, audit, and private equity operations. Currently, I work as a **Fund Reporting Manager**, leading teams to deliver accurate, timely, and high-quality financial reporting for investment funds.
+I'm a Chartered Accountant with over 10 years of experience in funds audit, fund reporting, financial reporting, audit, and private equity operations. Currently, I work as a **Fund Reporting Manager**, leading teams to deliver accurate, timely, and high-quality financial reporting for investment funds.
 
 ### 👨‍💼 About Me
 
@@ -15,7 +15,7 @@ I'm a Chartered Accountant with over 10 years of experience in fund accounting, 
 - 🎓 Chartered Accountant (India)
 - 📊 Experienced in Private Equity, Hedge Funds, UCITS, ICAVs, AIFs, and SPVs
 - 📈 Passionate about financial reporting, automation, data analytics, and process improvement
-- 🌱 Currently learning Python, SQL, and Power BI for finance automation
+- 🌱 Currently learning Automatioon tools to bring efficiencies.
 
 ---
 
@@ -30,9 +30,9 @@ I'm a Chartered Accountant with over 10 years of experience in fund accounting, 
 - Audit & Controls
 - Microsoft Excel (Advanced)
 - Power BI
-- SQL
-- Python (Learning)
-- Git & GitHub
+- Power Query
+- DFIn
+- UNity - Confluence
 
 ---
 
@@ -48,8 +48,7 @@ I'm a Chartered Accountant with over 10 years of experience in fund accounting, 
 
 ## 📚 Currently Learning
 
-- Python for Finance
-- SQL
+- Python for Finance 
 - Power BI
 - Git & GitHub
 - Financial Data Analytics
@@ -58,15 +57,15 @@ I'm a Chartered Accountant with over 10 years of experience in fund accounting, 
 
 ## 📫 Connect With Me
 
-- LinkedIn: *(Add your LinkedIn profile here)*
-- Email: *(Optional)*
+- LinkedIn: https://www.linkedin.com/in/hemanth-gogada-14769965?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: ghemanthca@gmail.com
 
 ---
 
 ### 💡 Quote
 
-> "Continuous learning and continuous improvement are the keys to long-term success."
+> "In ChAsE oF imPOSSIBLE DrEaMs"
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
-This version is tailored to your background as a Fund Reporting Manager and presents a professional profile suitable for recruiters and collaborators. You can also add GitHub stats, badges, and contribution graphs later to make it more visually appealing.
+
