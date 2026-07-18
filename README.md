@@ -2,11 +2,11 @@
 
 # Hi there 👋, I'm Hemanth
 
-## Fund Reporting Manager | Chartered Accountant | Private Equity & Fund Accounting Professional
+## Fund Reporting Manager | Chartered Accountant | Audit & Fund Reporting Professional
 
 Welcome to my profile!
 
-I'm a Chartered Accountant with over 10 years of experience in funds audit, fund reporting, financial reporting, audit, and private equity operations. Currently, I work as a **Fund Reporting Manager**, leading teams to deliver accurate, timely, and high-quality financial reporting for investment funds.
+I'm a Chartered Accountant with over 10 years of experience in funds audit, fund reporting, fund controllership,financial reporting, and private equity operations. Currently, I work as a **Fund Reporting Manager**, leading teams to deliver accurate, timely, and high-quality financial reporting for investment funds.
 
 ### 👨‍💼 About Me
 
@@ -48,7 +48,6 @@ I'm a Chartered Accountant with over 10 years of experience in funds audit, fund
 
 ## 📚 Currently Learning
 
-- Python for Finance 
 - Power BI
 - Git & GitHub
 - Financial Data Analytics
